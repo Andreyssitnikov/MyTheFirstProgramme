@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyTheFirstProgramme</string>
+    <string name="magic">Do you want to look a magic?</string>
+    <string name="button_ok">ok</string>
+</resources>
